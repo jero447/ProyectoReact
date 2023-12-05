@@ -1,0 +1,24 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: yellow;
+}
+.opciones{
+    display: flex;
+    align-items: center;
+}
+.nav-link{
+    margin-right: 2rem;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.logo{
+    text-decoration: none;
+    margin-left: 1rem;
+}

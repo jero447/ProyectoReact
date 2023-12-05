@@ -1,0 +1,9 @@
+.contenedor-saludo h1{
+    display: flex;
+    justify-content: center;
+    margin-top: 2.5rem;
+}
+
+.contenedor-saludo h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
