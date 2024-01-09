@@ -1,0 +1,16 @@
+.total{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.contenedor-botones {
+   display: flex;
+}
+
+.contenedor-botones button{
+    margin-right: 1rem;
+}
+.contenedor-botones .opcion{
+    margin-left: 1rem;
+}
